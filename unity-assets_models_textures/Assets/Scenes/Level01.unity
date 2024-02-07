@@ -3515,6 +3515,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3263956238835624948, guid: ac737ee5ccfd4504e90771f92c28a5ac, type: 3}
+      propertyPath: m_fontSize
+      value: 48
+      objectReference: {fileID: 0}
+    - target: {fileID: 3263956238835624948, guid: ac737ee5ccfd4504e90771f92c28a5ac, type: 3}
+      propertyPath: m_verticalMapping
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3263956238835624948, guid: ac737ee5ccfd4504e90771f92c28a5ac, type: 3}
+      propertyPath: m_enableAutoSizing
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3263956238835624948, guid: ac737ee5ccfd4504e90771f92c28a5ac, type: 3}
+      propertyPath: m_horizontalMapping
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6564252001914474966, guid: ac737ee5ccfd4504e90771f92c28a5ac, type: 3}
       propertyPath: m_Pivot.x
       value: 0
